@@ -1,0 +1,7 @@
+C:\Users\algir\Desktop\3Kursas1Semstras\LygiagretusProgramavimas\LygiagretusProjektas\LygiagretusProjektas\bin\Release\LygiagretusProjektas.exe.config
+C:\Users\algir\Desktop\3Kursas1Semstras\LygiagretusProgramavimas\LygiagretusProjektas\LygiagretusProjektas\bin\Release\LygiagretusProjektas.exe
+C:\Users\algir\Desktop\3Kursas1Semstras\LygiagretusProgramavimas\LygiagretusProjektas\LygiagretusProjektas\bin\Release\LygiagretusProjektas.pdb
+C:\Users\algir\Desktop\3Kursas1Semstras\LygiagretusProgramavimas\LygiagretusProjektas\LygiagretusProjektas\obj\Release\LygiagretusProjektas.csproj.CoreCompileInputs.cache
+C:\Users\algir\Desktop\3Kursas1Semstras\LygiagretusProgramavimas\LygiagretusProjektas\LygiagretusProjektas\obj\Release\LygiagretusProjektas.exe
+C:\Users\algir\Desktop\3Kursas1Semstras\LygiagretusProgramavimas\LygiagretusProjektas\LygiagretusProjektas\obj\Release\LygiagretusProjektas.pdb
+C:\Users\algir\Desktop\3Kursas1Semstras\LygiagretusProgramavimas\LygiagretusProjektas\LygiagretusProjektas\obj\Release\LygiagretusProjektas.csprojAssemblyReference.cache
